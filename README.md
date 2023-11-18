@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shakir Husain</h1>
 <h3 align="center">A passionate mobile app developer from India</h3>
+<img align="right" alt ="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=write2shakirhusain&label=Profile%20views&color=0e75b6&style=flat" alt="write2shakirhusain" /> </p>
 
-- 📫 How to reach me **write2shakirhusain@gmail.com**
+- 📫 How to reach me **shakirhusainpm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
